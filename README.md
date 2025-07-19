@@ -25,6 +25,21 @@ This Salesforce-based application helps manage **recycled plastic product invent
 | `Re_Plastic_Innovations_Restock_Request__c`        | Auto-created when stock is insufficient.    |
 
 ---
+## 🖼️ Application Screenshots
+
+### 📌 Recycled Product Records
+![Recycled Product Screenshot](screenshots/recycled_product.png)
+
+### 📌 Order Placement Page
+![Order Screen](<img width="1920" height="1200" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/cc524289-fb77-4591-945b-3a8c2a33b315" />
+![Uploading Screenshot (61).png…]()
+
+
+### 📌 Restock Request Automatically Created
+![Restock Request](screenshots/restock_created.png)
+
+### 📌 Approved Restock and Updated Stock Level
+![Restock Approved](screenshots/restock_approved.png)
 
 ## ⚙️ Apex Classes & Triggers
 
