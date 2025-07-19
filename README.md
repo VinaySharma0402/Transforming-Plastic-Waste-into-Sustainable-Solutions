@@ -28,18 +28,20 @@ This Salesforce-based application helps manage **recycled plastic product invent
 ## 🖼️ Application Screenshots
 
 ### 📌 Recycled Product Records
-![Recycled Product Screenshot](screenshots/recycled_product.png)
+![Recycled Product Screenshot]<img width="1920" height="1200" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/ce7a0f18-e706-4d4e-a3b2-cb7e3bfcc6ab" />
+
 
 ### 📌 Order Placement Page
 ![Order Screen](<img width="1920" height="1200" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/cc524289-fb77-4591-945b-3a8c2a33b315" />
-![Uploading Screenshot (61).png…]()
 
 
 ### 📌 Restock Request Automatically Created
-![Restock Request](screenshots/restock_created.png)
+![Restock Request]<img width="1920" height="1200" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/467b86b5-8e92-41e1-bf03-1e108e80583b" />
+
 
 ### 📌 Approved Restock and Updated Stock Level
-![Restock Approved](screenshots/restock_approved.png)
+![Restock Approved]<img width="1920" height="1200" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/ecac6783-f2c6-4b62-974c-363d311fe363" />
+
 
 ## ⚙️ Apex Classes & Triggers
 
